@@ -1,0 +1,28 @@
+p {
+	width: 70%;
+		}
+	P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}
+h1, h2, h3 {
+	font-family: sans-serif;
+	margin-top:: 1.5em;
+	}
+h1 {
+	font-size: 32px;
+	
+	}
+table, tr, th, td {
+   border: 1px solid black;
+}
+figcaption {
+	font-style: italic;
+	}
+img {
+	float: right
+}
+.whyyou {
+	width: 70%;
+}
